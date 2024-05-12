@@ -1,25 +1,8 @@
-# kanastra-challenge-boilerplate
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
+# kanastra- FrontEnd
 
 <!-- PROJECT -->
 <br />
-<p align="center">
 
-  <img src="https://avatars.githubusercontent.com/u/96804932?s=200&v=4" alt="Logo" width="80" height="80">
-
-  <h3 align="center">Kanastra  Frontend</h3>
-
-  <p align="center">
-     This application is a boilerplate to make the frontend challenge more quickly.
-    <br />
-  </p>
-</p>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
