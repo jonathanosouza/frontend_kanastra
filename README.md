@@ -1,56 +1,8 @@
 # kanastra- FrontEnd
 
 <!-- PROJECT -->
-<br />
 
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-### Built With
-
-* [React](https://reactjs.org/)
-* [Typescript](https://www.typescriptlang.org/)
-* [Tailwindcss](https://tailwindcss.com/)
-* [Vite](https://vitejs.dev)
-* [shadcn/ui](https://ui.shadcn.com/)
-* [bun](https://bun.sh/) (But you can use [Node.js](https://nodejs.org/en) instead)
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-### Prerequisites
-
-You need to install bun
-
-* To install bun, run this command:
-  ```sh
-  curl -fsSL https://bun.sh/install | bash
-  ```
-  _Supported on macOS, Linux, and WSL_
-
-#### If you're using Node instead Bun, please make sure that you Node version is 18 or higher.
+#### Please make sure that you Node version is 18 or higher.
 _(Recommended if you're using Windows without WSL)_
 
 ### Installation
