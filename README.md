@@ -74,23 +74,13 @@ _(Recommended if you're using Windows without WSL)_
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Kanastra-Tech/kanastra-challenge-boilerplate.git
+   git clone https://github.com/jonathanosouza/frontend_kanastra.git
    ```
 2. Install the packages
-   ```sh
-   bun install
-   ```
-   or
-
    ```sh
    npm i
    ```
 3. With packages installed, run development command:
-    ```sh
-    bun run dev
-    ```
-    or
-
     ```sh
     npm run dev:node
     ```
