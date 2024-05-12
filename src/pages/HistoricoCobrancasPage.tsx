@@ -51,7 +51,7 @@ const HistoricoCobrancasPage = () => {
               <TableCell className="px-4 py-2 font-semibold">Tamanho do Arquivo</TableCell>
               <TableCell className="px-4 py-2 font-semibold">Data de Upload</TableCell>
               <TableCell className="px-4 py-2 font-semibold">Usuário de Importação</TableCell>
-              <TableCell className="px-4 py-2 font-semibold">Tempo de Upload</TableCell>
+              <TableCell className="px-4 py-2 font-semibold">Tempo de Upload (Minutos)</TableCell>
             </TableRow>
           </TableHeader>
           <TableBody className="bg-gray-100 dark:bg-gray-700">
@@ -61,7 +61,7 @@ const HistoricoCobrancasPage = () => {
                 <TableCell className="px-4 py-2">{cobranca.tamanho}</TableCell>
                 <TableCell className="px-4 py-2">{format(new Date(cobranca.data_upload), 'dd/MM/yyyy')}</TableCell>
                 <TableCell className="px-4 py-2">{cobranca.usuario}</TableCell>
-                <TableCell className="px-4 py-2">{cobranca.tempo_upload}</TableCell>
+                <TableCell className="px-4 py-2"> Menos de {cobranca.tempo_upload} minuto(s)</TableCell>
               </TableRow>
             ))}
           </TableBody>
